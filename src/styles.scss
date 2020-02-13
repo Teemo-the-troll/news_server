@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+img {
+    height: 100px;
+    width: 200px;
+    position: sticky;
+}
+
+div>div {
+    position: relative;
+    left: 300px;
+    align-self: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: grey;
+    width: 500px;
+    height: 400px;
+}
